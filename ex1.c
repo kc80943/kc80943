@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
-{
+{ // CNPM _ LE HOANG HUY_51900089
 	int n;
 	printf(" nhap n:");
 	scanf(" %d",&n);
